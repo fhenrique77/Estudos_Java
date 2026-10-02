@@ -1,0 +1,41 @@
+* println pula uma linha
+
+* print não pula
+
+* int para números inteiros
+
+* double para números com casas decimais
+
+* string para texto, usa ""
+
+* char um único character, usa ''
+
+* boolean verdadeiro ou falso
+
+* scanner, o usuário pode digitar valores enquanto o programa esta rodando (seria como se fosse um input do python)
+
+- ‘String’ (variável) = scanner.nextLine usa com texto
+- int (variável) = scanner = scanner.nextInt usa com inteiro
+- boolean (variável) = scanner.nextDouble usa com decimal
+
+* ==   igual
+  !=   diferente
+  >    maior
+  <    menor
+  >=   maior ou igual
+  <=   menor ou igual
+
+* Operadores Lógicos
+-  &&  E
+-  ||  OU
+-  !   NÃO
+
+* Em IF e ELSE, quando comparar nomes ou números iguais, usar equals em nome, pois é uma ‘string’ (Olhar o exercício 9), e quando for numero, usar ==.
+
+* Em switch, é usado quando você tem várias opções possíveis para uma mesma variável (Olhar o exercício 13).
+
+* while → bom quando você não sabe exatamente quantas vezes vai repetir.
+
+* for → bom quando você já sabe quantas vezes quer repetir.
+
+* no 'do while', serve para repetir o bloco de código pelo menos uma vez, independentemente da condição.
